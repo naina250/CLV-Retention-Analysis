@@ -7,8 +7,6 @@ This project is an end-to-end customer analytics project that analyzes customer 
 The goal of this project is to help businesses identify high-value customers, understand customer retention, and analyze revenue contribution by different customer segments.
 This project covers the complete data analysis pipeline including data cleaning, exploratory data analysis, SQL-based analytics, customer segmentation, and dashboard visualization.
 
---
-
 ## Business Problem
 
 Businesses often struggle to answer important questions such as:
@@ -19,7 +17,6 @@ Businesses often struggle to answer important questions such as:
  - How can the business improve customer retention?
 This project solves these problems using customer data analysis and segmentation techniques.
 
---
 
 ## Tools & Technologies
 
