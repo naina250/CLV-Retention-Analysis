@@ -122,6 +122,9 @@ This project provides insights into customer behavior and helps businesses:
 
 ## Author
 **Naina Sonkar**
+
 Data Analyst
+
 Skills: Excel, SQL, Python, Tableau, Data Analysis, Data Visualization
+
 Github: https://github.com/naina250
