@@ -1,5 +1,4 @@
 # Customer Analytics: CLV, RFM Segmentation & Retention Analysis
----
 
 ## Project Overview
 
