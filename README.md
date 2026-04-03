@@ -23,6 +23,7 @@ This project solves these problems using customer data analysis and segmentation
 
 
 ## Project Structure
+```
 CLV-Retention-Analysis/
 │
 ├── data/
@@ -41,10 +42,11 @@ CLV-Retention-Analysis/
 │   └── 05_retention_analysis.sql
 │
 ├── tableau/
-│   |── Customer Analytics Dashboard.twb
-│   └── dashboard_img.png
-|
+│   └── Customer Analytics Dashboard.twb
+│
+├── dashboard.png
 └── README.md
+```
 
 
 
