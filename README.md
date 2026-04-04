@@ -67,7 +67,7 @@ CLV-Retention-Analysis/
 
 
 ## Dashboard Preview
-![Customer Analytics Dashboard](tableau/dashboard_img.png)
+![Customer Analytics Dashboard](tableau/dashboard.png)
 
 
 ## Key Insights
